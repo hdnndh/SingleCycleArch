@@ -1,0 +1,3 @@
+*.mem_trace
+/.vscode*
+*.o
